@@ -1,8 +1,8 @@
-- 👋 Hola, soy @BabOuZa vivi 14 años en Brasil y volvi a mi querida Argentina en 2024
+- 👋 Hola, soy @BabOuZa viví 14 años en Brasil y volvi a mi querida Argentina en 2024
 - 👀 Estoy interesado en blockchain, bitcoin y programación
-- 🌱 Interiorizandome sobre blockchain, bitcoin, linux y programacion.
+- 🌱 Interiorizandome sobre blockchain, bitcoin, linux y programación.
 - 💞️ Busco colaborar con la comunidad de @LaCryptaOk
-- 📫 @BabOuZa_ Nostr: babouza
+- 📫 X: @BabOuZa_ Nostr: babouza
 
 
 
